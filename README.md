@@ -1,0 +1,10 @@
+Hello, my name is Dave Perrin. I am a data scientist and I currently work in the field of people analytics (data science for human resources), however I have worked in computational ecology and finance. While I have several repos, I can only share a few due to confidentiality concerns. If you are interested in my qualifications, please see the repos below:
+
+- FishNET: A neural network which predicts the probability that a given species will be within 2 kilometers of random GPS coordinate in river systems. This was a collaboration with researchers at a lab at the University of Texas at Austin.
+
+- Employee Attrition Ensemble: A stacked ensemble model which utilizes survival analysis methods to predict employee attrition. After training, each employee is assigned an attrition risk score. The higher an employees value, the more likely they are to exit the company voluntarily. This is very similar to a model I created in my current role, and this example utilizes the IBM attrition dataset.  
+
+<!---
+David-Ryan-Perrin/David-Ryan-Perrin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
